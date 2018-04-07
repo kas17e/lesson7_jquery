@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 5, 2018
 
 ### Student Name:  
-(First and Last Name)
+Kimberly Sapp
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment looked at the different code that could be used to alter the way a recipe display app is viewed.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kas17e.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned about different jQuery methods for DOM manipulation and what each does. For example, "clone()" creates a duplicate of the selection.
+2. The animate() method is customizable and can be changed to whatever speed you want.
+3. When using the hover() method you can also customize the experience. In this lesson we changed the mouse entering to have a yellow background with css and a pink background when the mouse leaves.
 
